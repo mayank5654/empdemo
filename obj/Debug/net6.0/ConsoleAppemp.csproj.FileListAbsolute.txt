@@ -12,3 +12,4 @@ F:\phase3\daily examples\day4\ConsoleAppemp\ConsoleAppemp\obj\Debug\net6.0\refin
 F:\phase3\daily examples\day4\ConsoleAppemp\ConsoleAppemp\obj\Debug\net6.0\ConsoleAppemp.pdb
 F:\phase3\daily examples\day4\ConsoleAppemp\ConsoleAppemp\obj\Debug\net6.0\ConsoleAppemp.genruntimeconfig.cache
 F:\phase3\daily examples\day4\ConsoleAppemp\ConsoleAppemp\obj\Debug\net6.0\ref\ConsoleAppemp.dll
+F:\phase3\daily examples\day4\ConsoleAppemp\ConsoleAppemp\obj\Debug\net6.0\ConsoleAppemp.sourcelink.json
